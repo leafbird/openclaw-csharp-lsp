@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/csharp-lsp.webp" alt="csharp-lsp" />
+</p>
+
 # OpenClaw Skill: csharp-lsp
 
 [![CI](https://github.com/leafbird/openclaw-csharp-lsp/actions/workflows/test.yml/badge.svg)](https://github.com/leafbird/openclaw-csharp-lsp/actions)
