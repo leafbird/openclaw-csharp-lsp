@@ -1,5 +1,12 @@
 # csharp-lsp 💜
 
+[![CI](https://github.com/leafbird/openclaw-csharp-lsp/actions/workflows/test.yml/badge.svg)](https://github.com/leafbird/openclaw-csharp-lsp/actions)
+[![Version](https://img.shields.io/github/v/tag/leafbird/openclaw-csharp-lsp?label=version&sort=semver)](https://github.com/leafbird/openclaw-csharp-lsp/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![.NET](https://img.shields.io/badge/.NET-9.0+-512BD4)](https://dot.net/download)
+[![csharp-ls](https://img.shields.io/badge/LSP-csharp--ls-68217A)](https://github.com/razzmatazz/csharp-language-server)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)]()
+
 C# code intelligence for [OpenClaw](https://github.com/openclaw/openclaw) agents — powered by [csharp-ls](https://github.com/razzmatazz/csharp-language-server), a lightweight Roslyn-based language server.
 
 > Go-to-definition, find references, hover, diagnostics, symbol search — all from the command line.
