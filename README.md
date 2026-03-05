@@ -31,10 +31,18 @@ C# code intelligence for [OpenClaw](https://github.com/openclaw/openclaw) agents
 
 ### Install
 
+**Option A: ClawHub** (recommended for OpenClaw users)
+
 ```bash
-git clone https://github.com/leafbird/csharp-lsp.git
-cd csharp-lsp
-bash scripts/setup.sh --verify
+clawhub install csharp-lsp
+bash skills/csharp-lsp/scripts/setup.sh --verify
+```
+
+**Option B: GitHub**
+
+```bash
+git clone https://github.com/leafbird/openclaw-csharp-lsp.git skills/csharp-lsp
+bash skills/csharp-lsp/scripts/setup.sh --verify
 ```
 
 The setup script is **idempotent** — safe to run multiple times.
