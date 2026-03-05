@@ -1,4 +1,4 @@
-# csharp-lsp 💜
+# OpenClaw Skill: csharp-lsp
 
 [![CI](https://github.com/leafbird/openclaw-csharp-lsp/actions/workflows/test.yml/badge.svg)](https://github.com/leafbird/openclaw-csharp-lsp/actions)
 [![Version](https://img.shields.io/github/v/tag/leafbird/openclaw-csharp-lsp?label=version&sort=semver)](https://github.com/leafbird/openclaw-csharp-lsp/releases)
