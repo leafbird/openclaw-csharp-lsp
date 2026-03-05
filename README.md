@@ -1,6 +1,7 @@
 # OpenClaw Skill: csharp-lsp
 
 [![CI](https://github.com/leafbird/openclaw-csharp-lsp/actions/workflows/test.yml/badge.svg)](https://github.com/leafbird/openclaw-csharp-lsp/actions)
+[![ClawHub](https://img.shields.io/badge/ClawHub-csharp--lsp-7c3aed)](https://clawhub.ai/skills/csharp-lsp)
 [![Version](https://img.shields.io/github/v/tag/leafbird/openclaw-csharp-lsp?label=version&sort=semver)](https://github.com/leafbird/openclaw-csharp-lsp/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-9.0+-512BD4)](https://dot.net/download)

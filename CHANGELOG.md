@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0] - 2026-03-05
+
+### Changed
+- SKILL.md rewritten in English (was Korean)
+- Added ClawHub badge to README
+
+### Added
+- GitHub Actions workflow for automated ClawHub publish on tag push
+- ClawHub install option in README
+
 ## [1.1.0] - 2026-03-05
 
 ### Changed
